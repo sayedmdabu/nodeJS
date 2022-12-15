@@ -1,11 +1,11 @@
 # nodeJS
 ## 1. What is Node?
-a. Node is not a Language
-b. This is a server Environment
-c. Node js can connect with database
-d. Code and syntax is very similar to JavaScript
-e. Nodejs free open source
-f. Node.js use chrome's V8 engine to execute code
+1. Node is not a Language
+2. This is a server Environment
+3. Node js can connect with database
+4. Code and syntax is very similar to JavaScript
+5. Nodejs free open source
+6. Node.js use chrome's V8 engine to execute code
 
 ## 2. Why do we use it?
 1. Node js mostly used for API
@@ -23,8 +23,3 @@ f. Node.js use chrome's V8 engine to execute code
 6. Node js run on the server side
 7. JavaScript is run on the browser
 
-## Basic Before Getting Start
-- What are Client and Server Sides?
-- Where do we use node (Client or Server Side)?
-- How Nodejs use JavaScript?
-- What developer Make with Node js?
