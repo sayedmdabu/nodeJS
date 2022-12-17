@@ -23,3 +23,13 @@
 6. Node js run on the server side
 7. JavaScript is run on the browser
 
+## Fundamentals of Node JS
+- JavaScript Fundamentals for NodeJS
+- Conditions, Loop and Array
+- The import function and variables from another file
+
+## Core Module in Node JS
+- What are the core modules?
+- What are global modules?
+- Global Model Example
+- Non-global Module with Example
