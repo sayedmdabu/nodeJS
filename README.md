@@ -33,3 +33,9 @@
 - What are global modules?
 - Global Model Example
 - Non-global Module with Example
+
+## Make Basic Server Output on Browser
+- Make Basic Server
+- Function as parameter in node
+- Arrow 
+- Get output on Browser
